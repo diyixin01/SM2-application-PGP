@@ -34,23 +34,25 @@ PGP是个混合加密算法，它由一个对称加密算法、一个非对称�
 
 # 代码解释
 # def SM2_enc(plaintext):
-SM2加密
+实现了SM2加密
 # def SM2_dec(ciphertext):
-SM2解密
+实现了SM2解密
 # def PGP_Encrypt(mes, k):
-PGP加密
+实现了PGP加密，核心代码如下：
 
 ![image](https://user-images.githubusercontent.com/75195549/181498853-bda5ec26-9eed-44be-a149-a5ca5f4918e1.png)
 
 
 
 # def PGP_Decrypt(mes, k):
-PGP解密
+实现了PGP解密，核心代码如下：
 
 
 ![image](https://user-images.githubusercontent.com/75195549/181498902-abe99e7b-2c5b-447e-82a2-80bcdf00c8c3.png)
 
 # 交换密钥的过程
+核心代码：
+
 
 ![image](https://user-images.githubusercontent.com/75195549/181498984-c406ce7c-f316-42d5-a43c-609616ee9d5f.png)
 
