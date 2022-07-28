@@ -1,6 +1,8 @@
 # SM2-application-PGP
 
+# 简介
 
+实现了基于AES和SM2的PGP和基于RSA的PGP
 
 # PGP简介
 
@@ -37,15 +39,25 @@ PGP是个混合加密算法，它由一个对称加密算法、一个非对称�
 
 
 # 代码解释
+# def SM2_enc(plaintext):
+SM2加密
+# def SM2_dec(ciphertext):
+SM2解密
+# def PGP_Encrypt(mes, k):
+PGP加密
 
 
+
+# def PGP_Decrypt(mes, k):
+PGP加密
 
 
 实验结果如图：
 
 
+# 实验结果
 
-
+# SM2
 ![image](https://user-images.githubusercontent.com/75195549/180399808-d8e17d1b-1435-4bfb-a3c0-33e96de74314.png)
 
 
@@ -57,7 +69,7 @@ PGP是个混合加密算法，它由一个对称加密算法、一个非对称�
 
 
 
-
+# RSA
 ![image](https://user-images.githubusercontent.com/75195549/180400546-3055c3b3-9ef0-4cda-8df0-549a69869143.png)
 
 
