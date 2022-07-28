@@ -24,6 +24,20 @@ PGP是个混合加密算法，它由一个对称加密算法、一个非对称�
 
 
 
+# 加密过程
+
+![image](https://user-images.githubusercontent.com/75195549/181497175-5dde2005-0929-4db5-b328-911a3beb04cf.png)
+
+
+# 解密过程
+
+
+![image](https://user-images.githubusercontent.com/75195549/181497223-4779cf9e-efc9-47e7-bfcf-25b9fe4afb42.png)
+
+
+
+# 代码解释
+
 
 
 
