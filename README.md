@@ -2,7 +2,7 @@
 
 # 简介
 
-实现了基于AES和SM2的PGP和基于RSA的PGP
+实现了基于AES和SM2的PGP以及基于DES和RSA的PGP
 
 # PGP简介
 
